@@ -10,8 +10,10 @@ p{
     /*margin-top: 40px;
     margin-right: 10px;
     margin-bottom: 20px;
-    margin-left: 10px;*/
-    margin: 40px 10px 20px 10px;
+    margin-left: 10px;
+    margin: 40px 10px 20px 10px;*/
+    margin:auto 50px; /* margen centrado */
+    text-align: center; /* texto centrado */
 }
 /*
 margin
