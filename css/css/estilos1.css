@@ -1,0 +1,40 @@
+/*Tipos de selectores*/
+
+/*global
+*{
+    background-color: gainsboro;
+    color: cornflowerblue;
+}
+*/
+
+/*id
+#titulo{
+    color: crimson;
+    text-align: center;
+}
+*/
+
+/*clases
+.centrar{
+    text-align: center;
+}
+
+.texto_grande{
+    font-size: 20px;
+}
+*/
+
+/*agrupar selectores
+h1,h2,p, div{
+    color: crimson;
+    text-align: center;
+}
+*/
+
+/*Subclases*/
+
+p.centro{
+    text-align: center;
+}
+
+

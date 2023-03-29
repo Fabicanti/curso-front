@@ -1,0 +1,49 @@
+Etiquetas Estructurales en HTML5
+
+* <section>
+agrega una seccion web 
+dentro web varias seccion 
+podemos agregar varios elementos html
+
+* <article>
+agrega un articulo web
+elementos independientes
+son reutilizables para todo
+
+*<aside>
+agrega elemento en barra lateral
+otros articulos, notas, extras
+
+*<header> ;<footer>
+header es el cabecero
+footer pie de pagina
+facilita la clasificacion en google
+
+*<hgroup>
+agrupa titulos(h1--h6)
+
+*<nav>
+define barra de navegacion(varias)
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Etiquetas Estructurales HTML5</title>
+    </head>
+    <body>
+        <head>
+            <p>cabecero</p>
+        </head>
+        <nav>
+            <p>Barra Navegación</p>
+        </nav>
+        <seccion>
+            <p>Sección</p>
+            <article>Articulo 1</article>
+            <article>Articulo 2</article>
+        </seccion>
+        <footer>
+            <p>Píe de página</p>
+        </footer>
+    </body>
+</html>
